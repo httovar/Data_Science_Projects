@@ -1,5 +1,7 @@
-#Set WD (DELETE FOR FINAL VERSION)
-setwd(file.path("C:","Users","henni","Documents","App State","Classes","Spring 2020","Time_Series","Final_Paper"))
+#Set WD to the appropriate location. 
+#The code requires to set up two folders called "Figures" and "Tables" 
+#Otherwise R cannot save the graphs and tables
+
 
 #Package and Data Setup
 library(tidyverse)
