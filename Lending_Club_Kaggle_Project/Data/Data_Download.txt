@@ -1,0 +1,2 @@
+The data can be downloaded here
+https://www.kaggle.com/wendykan/lending-club-loan-data
